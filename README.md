@@ -2,7 +2,7 @@
 #### Web Developer
 I'm a passionate computer science graduate with a strong desire to create innovative web applications. My academic journey has equipped me with a solid foundation in programming and problem-solving. Currently, I'm focused on mastering the MERN stack—MongoDB, Express.js, React, and Node.js—to become a proficient full-stack developer.
 
-Skills: REACT / JS / HTML / CSS
+Skills: React / Javascript / Tailwind / Bootstrap / CSS /  HTML / Git / Github
 
 - 🔭 I’m currently working on Frontend Development 
 - 🌱 I’m currently learning React 
