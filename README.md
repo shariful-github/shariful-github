@@ -16,10 +16,7 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-github)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shariful-github&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/shariful-github)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shariful-github)  
-
 
