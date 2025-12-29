@@ -7,7 +7,8 @@ Demonstrated the ability to quickly grasp new concepts and
 technologies. I am committed to delivering high-quality solutions and
 staying updated with industry trends as a software developer.
 
-- 📫 How to reach me: sharifuli.cse@gmail.com
+- 📫 Email: sharifuli.cse@gmail.com
+- 📫 Website: www.sharifulx.com
   
 Skills: Next.js, React.js, Redux, JavaScript, Tailwind, Bootstrap, CSS, HTML, || Node.js, Express.js, strapi, MongoDB, Firebase, Git & Github
 
